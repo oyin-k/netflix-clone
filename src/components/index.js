@@ -4,4 +4,6 @@ export { default as Feature } from "./feature";
 export { default as Form } from "./form";
 export { default as Jumbotron } from "./jumbotron";
 export { default as OptForm } from "./opt-form";
+export { default as Profile } from "./profile";
+export { default as Loading } from "./loading";
 export { default as Footer } from "./footer";
